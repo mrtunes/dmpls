@@ -52,7 +52,7 @@
 <div class="w-90 w-50-ns center tr">
 {% if page.linktext == null %} {% else %}
 	   <a class="f6 link dim ph3 pv2 mb2 dib white bg-dark-blue right" href="{{site.baseurl}}{{page.link}}">{{page.linktext}} ></a>
-   
+
 {% endif %}     
 
 
@@ -144,8 +144,18 @@
 
  
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116656487-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116656487-1');
+</script>
 
 
 
 </body>
+
 </html>
