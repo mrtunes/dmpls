@@ -1,6 +1,6 @@
 <html>	
 <head>
-<title>{{ page.title }}</title>
+<title>{{ page.title }} | Dimple</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ "/assets/main.scss" | relative_url }}"/>
 <style>
@@ -12,7 +12,7 @@
 <body class="w-100 sans-serif">
 <nav class="dt w-90-m w-60-l w-100-ns center border-box pa3 ph5-ns">
   <a class="dtc v-mid mid-gray link dim w-25" href="index" title="Home">
-  <img src="{{ "/assets/img/logo.png" | absolute_url }}" class="dib w3 h3" alt="Site Name">
+  <img src="{{ "http://getdimple.com/assets/img/logo.png" | absolute_url }}" class="dib w3 h3" alt="Site Name">
   </a>
   <div class="dtc v-mid w-75 tr">
     <a class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns {% if page.url == '/about.html' %}active{% endif %}"  href="{{site.baseurl}}about" title="About">About</a>
