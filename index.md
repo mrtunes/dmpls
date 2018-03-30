@@ -2,7 +2,7 @@
 layout: default
 title: "The Simple Way to Get Your Business Online " 
 permalink: index.html
-link: /about.html
+link: about.html
 linktext: Learn More
 
 ---
