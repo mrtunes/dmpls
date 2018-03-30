@@ -2,7 +2,7 @@
 layout: default
 title: "What Makes a Great Website? " 
 permalink: about.html
-link: /pricing.html
+link: pricing.html
 linktext: Pricing
 ---
 

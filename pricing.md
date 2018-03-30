@@ -2,7 +2,7 @@
 layout: default
 title: "Only Pay for the Value We Create " 
 permalink: pricing.html
-link: /signup
+link: signup
 linktext: Sign Up 
 
 ---
