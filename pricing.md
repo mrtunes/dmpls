@@ -25,7 +25,7 @@ A basic webpage package is identical to what you see on this current site, excep
  • **Domain names**: such as mysite.com. You can purchase this from any domain provider, and we'll help point it to your Dimple. <br />  <br />
 </span>
 
-<span class="orange">To set up the <b>basic website</b>, we have 10 slots available at the price of <b>$50 CDN</b></span>. <br /><br /> Why so affordable? This introductory pricing is in place to make sure we're doing the best job possible before rolling it out to new members. 
+<span class="hot-pink">To set up the <b>basic website</b>, we have 10 slots available at the price of <b>$50 CDN</b></span>. <br /><br /> Why so affordable? This introductory pricing is in place to make sure we're doing the best job possible before rolling it out to new members. 
 <br /><br />
 
 <b>Power-Ups</b> <br />
@@ -37,7 +37,7 @@ After setting up your basic website, you can upgrade it with the following servi
 • Create new page (10 tokens) <br />
 • Update domain name after first time setup (10 tokens) <br /><br />
 </span>
-<span class="orange">Tokens cost <b>$1 each</b>. </span><br /><br />
+<span class="hot-pink">Tokens cost <b>$1 each</b>. </span><br /><br />
 
 Ok great, take me to your sign up page...
 
