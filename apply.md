@@ -28,7 +28,7 @@ Ready to go? Just fill out this form and we'll be in touch to get your site star
       </div>
      
     </fieldset>
-    <div class="mt3"><input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6" type="submit" value="Sign Up"></div>
+    <div class="mt3"><input class=" ph3 pv2 input-reset   white bg-hot-pink grow pointer f6" type="submit" value="Sign Up"></div>
   </form>
 </article>
 
