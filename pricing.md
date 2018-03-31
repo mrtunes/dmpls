@@ -30,7 +30,7 @@ A basic webpage package is identical to what you see on this current site, excep
 
 <b>Power-Ups</b> <br />
 
-After setting up your basic website, you can upgrade it with the following services: <br /> <br />
+After setting up your basic website, you can upgrade it with the following services: <br /> 
 
 <span class="f5">
 • Make edits to page (5 tokens) <br />
