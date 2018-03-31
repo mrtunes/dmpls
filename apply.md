@@ -14,17 +14,17 @@ Ready to go? Just fill out this form and we'll be in touch to get your site star
 
         <div class="mt3">
         <label class="db fw4 lh-copy f6" for="name">Your Name</label>
-        <input class="pa2 input-reset ba bg-transparent w-40 measure" type="text" name="name"  id="name">
+        <input class="pa2 input-reset ba bg-transparent w-40-ns w-90 measure" type="text" name="name"  id="name">
       </div>
 
        <div class="mt3">
         <label class="db fw4 lh-copy f6" for="biname">Business Name</label>
-        <input class="pa2 input-reset ba bg-transparent w-40 measure" type="text" name="biname"  id="biname">
+        <input class="pa2 input-reset ba bg-transparent w-40-ns w-90 measure" type="text" name="biname"  id="biname">
       </div>
 
       <div class="mt3">
         <label class="db fw4 lh-copy f6" for="email-address">Email address</label>
-        <input class="pa2 input-reset ba bg-transparent w-40 measure" type="email" name="email-address"  id="email-address">
+        <input class="pa2 input-reset ba bg-transparent w-40-ns w-90 measure" type="email" name="email-address"  id="email-address">
       </div>
      
     </fieldset>
