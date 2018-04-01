@@ -28,7 +28,7 @@ Service launches in mid-April 2018. Enter your email to be notified when the fir
       </div>
      
     </fieldset>
-    <div class="mt3"><input class=" ph3 pv2 input-reset   white bg-hot-pink grow pointer f6" type="submit" value="Sign Up"></div>
+    <div class="mt3"><input class=" ph3 pv2 input-reset   white bg-hot-pink grow pointer f6" type="submit" value="Notify Me"></div>
   </form>
 </article>
 
