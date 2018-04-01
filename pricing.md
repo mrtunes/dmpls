@@ -38,5 +38,5 @@ After setting up your basic website, you can upgrade it using tokens to do thing
 </span>
 <span class="hot-pink">Tokens cost <b>$1 each</b>. </span><br /><br /> 
 
-Ok great, take me to your sign up page...
+
 
