@@ -5,7 +5,7 @@ permalink: signup.html
 link: none
 ---
 
-Ready to go? Just fill out this form and we'll be in touch to get your site started. 
+Service launches in mid-April 2018. Enter your email to be notified when the first slots become available. 
 
 <article class="pa2 mt0 black-80">
   <form action="https://formspree.io/mrtunes@gmail.com" method="POST" accept-charset="utf-8">
@@ -17,10 +17,10 @@ Ready to go? Just fill out this form and we'll be in touch to get your site star
         <input class="pa2 input-reset ba bg-transparent w-40-ns w-90 measure" type="text" name="name"  id="name">
       </div>
 
-       <div class="mt3">
+      <!-- <div class="mt3">
         <label class="db fw4 lh-copy f6" for="biname">Business Name</label>
         <input class="pa2 input-reset ba bg-transparent w-40-ns w-90 measure" type="text" name="biname"  id="biname">
-      </div>
+      </div> -->
 
       <div class="mt3">
         <label class="db fw4 lh-copy f6" for="email-address">Email address</label>
