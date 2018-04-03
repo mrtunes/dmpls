@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "The Simple Way to Get Your Business Online " 
+title: "The Simple Solution " 
 permalink: index.html
 link: about
 linktext: Learn More
 
 ---
 
-Having a website is essential to running a business. However putting up with all the headaches of setting one up, is optional. <br /><br />
+We build simple sites with a focus on extensive content. This is great for businesses and academic institutions which aim to educate visitors, either in the form of and information resource or a help centre.  <br /><br />
 
-So let us help you set up a simple website just like the one you're on this very moment. We can also whip up some great copy, which is often the #1 roadblock in the process.
-
+The sites are powered by text files rather than admin panels, which makes it easier to create the content, and helps them load faster than a Parisian pickpocket. 
